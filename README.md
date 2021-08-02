@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishnu
 - 👀 I’m interested in IoT, ML, Material Science and Vehicle technologies. 
-- 🌱 I’m currently researching difffrent life time models for the failure prediction.
+- 🌱 I’m currently researching different life time models for the failure prediction.
 - 💞️ I’m looking to collaborate on projects with IoT sensors and electronic component fatigue analysis.
 
 <!---
